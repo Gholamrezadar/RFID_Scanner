@@ -5,7 +5,7 @@ This project consists of an Arduino Board connected to an LCD and an RFID module
 
 YouTube Video: [RFID Scanner with Arduino and Python](http://www.youtube.com/watch?v=zUa4zw7oUsI)
 
-[![IRFID Scanner with Arduino and Python](http://img.youtube.com/vi/zUa4zw7oUsI/0.jpg)](http://www.youtube.com/watch?v=zUa4zw7oUsI "RFID Scanner with Arduino and Python")
+[![IRFID Scanner with Arduino and Python](https://github.com/Gholamrezadar/RFID_Scanner/raw/main/thumbnail.jpg)](http://www.youtube.com/watch?v=zUa4zw7oUsI "RFID Scanner with Arduino and Python")
 
 
 June 5th 2021
